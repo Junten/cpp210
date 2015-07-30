@@ -1,4 +1,4 @@
-//Time.cpp, by Junteng Tan (1489763)
+//Time.cpp
 
 #include "Time.h"
 

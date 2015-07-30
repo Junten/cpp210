@@ -1,7 +1,4 @@
 // Lab 2c, The "Calculator" Program
-// Programmer: Junteng Tan
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode
 
 #include <iostream>
 #include <stack>
@@ -14,8 +11,6 @@ void print(stack<double>, string);
 
 int main() {
   cout << "Lab 2c, The \"Calculator\" Program \n";
-  cout << "Programmer: Junteng Tan\n";
-  cout << "Editor(s) used: Xcode text Edit\n";
   cout << "File: " << __FILE__ << endl;
   cout << "Complied: " << __DATE__ << " at " << __TIME__ << endl << endl;
   

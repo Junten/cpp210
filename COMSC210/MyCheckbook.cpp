@@ -1,7 +1,5 @@
-// MyCheckbook.cpp, by Junteng Tan (1489763)
+// MyCheckbook.cpp
 // lab 4b, The "Checkbook" program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode
 
 #include <iostream>
 #include "Checkbook.h"
@@ -9,8 +7,6 @@ using namespace std;
 
 int main() {
   cout << "Lab 4b, The \"Checkbook\" Program \n";
-  cout << "Programmer: Junteng Tan\n";
-  cout << "Editor(s) used: xcode text Edit\n";
   cout << "File: " << __FILE__ << endl;
   cout << "Complied: " << __DATE__ << " at " << __TIME__ << endl << endl;
 	

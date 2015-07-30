@@ -1,7 +1,5 @@
-// DvcSchedule7b.cpp, by Junteng Tan (1489763)
+// DvcSchedule7b.cpp
 // lab 7b, The "DvcSchedule7b" program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode
 
 #include <iostream>
 #include <fstream>
@@ -43,8 +41,6 @@ bool foundData(SubjectCode);
 
 int main() {
   cout << "Lab 7b, The \"DvcSchedule7b\" Program " << endl
-       << "Programmer: Junteng Tan" << endl
-       << "Editor(s) used: xcode text Edit" << endl
        << "File: " << __FILE__ << endl
        << "Complied: " << __DATE__ << " at " << __TIME__ << endl << endl;
   

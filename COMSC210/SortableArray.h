@@ -1,7 +1,5 @@
-// SortableArray,h, by Junteng Tan (1489763)
+// SortableArray,h
 // lab 5a, The "MySortableArray" program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode
 
 #ifndef SortableArray_H
 #define SortableArray_H

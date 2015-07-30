@@ -1,7 +1,5 @@
-// ServerGroup.h, by Junteng Tan (1489763)
+// ServerGroup.h
 // lab 4a, The "ServerGroup" program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode
 
 #ifndef ServerGroup_H
 #define ServerGroup_H

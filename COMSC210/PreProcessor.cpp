@@ -1,7 +1,5 @@
-// PreProcessor.cpp, by Junteng Tan (1489763)
+// PreProcessor.cpp
 // lab 8c, The "PreProcessor" program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode
 
 #include <iostream>
 #include <fstream>
@@ -15,8 +13,6 @@ void printClose(char&, int&, string&);
 
 int main() {
   cout << "Lab 8c, The \"PreProcessor\" Program " << endl
-       << "Programmer: Junteng Tan" << endl
-       << "Editor(s) used: xcode text Edit" << endl
        << "File: " << __FILE__ << endl
        << "Complied: " << __DATE__ << " at " << __TIME__ << endl;
   

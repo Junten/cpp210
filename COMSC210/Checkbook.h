@@ -1,7 +1,5 @@
-// Checkbook.h, by Junteng Tan (1489763)
+// Checkbook.h
 // lab 4b, The "Checkbook" program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode
 
 #ifndef Checkbook_H
 #define Checkbook_H

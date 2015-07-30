@@ -1,4 +1,4 @@
-//Fraction.cpp, by Junteng Tan (1489763)
+//Fraction.cpp
 
 #include "Fraction.h"
 

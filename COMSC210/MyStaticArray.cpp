@@ -1,7 +1,5 @@
-// MyStaticArray.cpp, by Junteng Tan (1489763)
+// MyStaticArray.cpp
 // lab 5a, The "MyStaticArray" program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode
 
 #include <iostream>
 #include <string>
@@ -12,8 +10,6 @@ using namespace std;
 
 int main() {
   cout << "Lab 5a, The \"MyStaticArray\" Program " << endl
-       << "Programmer: Junteng Tan" << endl
-       << "Editor(s) used: xcode text Edit" << endl
        << "File: " << __FILE__ << endl
        << "Complied: " << __DATE__ << " at " << __TIME__ << endl;
 	

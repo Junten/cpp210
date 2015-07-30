@@ -1,7 +1,5 @@
-// LinkedList.h, by Junteng Tan (1489763)
+// LinkedList.h
 // lab 10a, The "LinkedList" program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode
 
 #ifndef LinkedList_h
 #define LinkedList_h

@@ -1,7 +1,5 @@
-// GameOfLifeMap.cpp, by Junteng Tan (1489763)
+// GameOfLifeMap.cpp
 // lab 11c, The "GameOfLifeMap" program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode Copyright 
 
 #include <iostream>
 using namespace std;
@@ -91,8 +89,6 @@ void update() {
 
 int main() {
   cout << "Lab 11c, The \"GameOfLifeMap\" Program " << endl
-       << "Programmer: Junteng Tan" << endl
-       << "Editor(s) used: xcode text Edit" << endl
        << "File: " << __FILE__ << endl
        << "Complied: " << __DATE__ << " at " << __TIME__ << endl << endl;
   

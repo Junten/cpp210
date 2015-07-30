@@ -1,4 +1,5 @@
-//Time.h, by Junteng Tan (1489763)
+//Time.h
+
 #ifndef TIME_H
 #define TIME_H
 

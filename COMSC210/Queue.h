@@ -1,8 +1,5 @@
-// Queue.h, by Junteng Tan (1489763)
+// Queue.h
 // lab 8b, The "QueueDriver" program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode
-
 
 #ifndef Node_H
 #define Node_H

@@ -1,7 +1,5 @@
-// Sort.cpp, by Junteng Tan (1489763)
+// Sort.cpp
 // lab 9c, The "Sort" program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode
 
 #include <iostream>
 #include <fstream>
@@ -15,8 +13,6 @@ using namespace std;
 
 int main() {
   cout << "Lab 9c, The \"Sort\" Program " << endl
-       << "Programmer: Junteng Tan" << endl
-       << "Editor(s) used: xcode text Edit" << endl
        << "File: " << __FILE__ << endl
        << "Complied: " << __DATE__ << " at " << __TIME__ << endl << endl;
   

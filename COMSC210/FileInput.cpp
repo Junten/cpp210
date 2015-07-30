@@ -1,8 +1,5 @@
-// FileInput.cpp, by Junteng Tan (1489763)
+// FileInput.cpp
 // lab 9a, The "FileInput" program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode
-
 
 #include <iostream>
 #include <fstream>
@@ -15,8 +12,6 @@ using namespace std;
 
 int main() {
   cout << "Lab 9a, The \"FileInput\" Program " << endl
-       << "Programmer: Junteng Tan" << endl
-       << "Editor(s) used: xcode text Edit" << endl
        << "File: " << __FILE__ << endl
        << "Complied: " << __DATE__ << " at " << __TIME__ << endl << endl;
   
@@ -71,4 +66,3 @@ int main() {
   }
   return 0;
 }
-

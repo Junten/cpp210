@@ -1,8 +1,4 @@
 // Lab 2b, The "Rectangle" Program
-// Programmer: Junteng Tan
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode
-
 
 #ifndef __Rectangle__H
 #define __Rectangle__H

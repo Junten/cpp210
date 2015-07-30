@@ -1,7 +1,5 @@
-//GameOfLife.cpp, by Junteng Tan (1489763)
+//  GameOfLife.cpp
 // lab 11b, The "GameOfLife program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode Copyright 
 
 #include <iostream>
 using namespace std;
@@ -94,8 +92,6 @@ void update() {
 
 int main() {
   cout << "Lab 11b, The \"GameOfLife\" Program " << endl
-       << "Programmer: Junteng Tan" << endl
-       << "Editor(s) used: xcode text Edit" << endl
        << "File: " << __FILE__ << endl
        << "Complied: " << __DATE__ << " at " << __TIME__ << endl << endl;
   

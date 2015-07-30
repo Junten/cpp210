@@ -1,8 +1,5 @@
-// PriorityQueue.h by Junteng Tan (1489763)
+// PriorityQueue.h
 // lab 12a, The "PriorityQueue" program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode
-
 
 #ifndef PriorityQueue_H
 #define PriorityQueue_H

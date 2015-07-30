@@ -1,7 +1,5 @@
-// Stack.h, by Junteng Tan (1489763)
+// Stack.h
 // lab 8a, The "StackDriver" program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode
 
 #ifndef Stack_h
 #define Stack_h

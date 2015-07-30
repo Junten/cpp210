@@ -1,7 +1,5 @@
-// DvcSchedule6b.cpp, by Junteng Tan (1489763)
+// DvcSchedule6b.cpp
 // lab 6a, The "DvcSchedule6b" program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode
 
 #include <iostream>
 #include <fstream>
@@ -29,8 +27,6 @@ struct termAndSection {
 
 int main() {
   cout << "Lab 6b, The \"DvcSchedule6b\" Program " << endl
-       << "Programmer: Junteng Tan" << endl
-       << "Editor(s) used: xcode text Edit" << endl
        << "File: " << __FILE__ << endl
        << "Complied: " << __DATE__ << " at " << __TIME__ << endl << endl;
   
@@ -129,7 +125,6 @@ int main() {
       } 
     }
   }
-  
   
   elapsedSeconds = (double)(clock() - startTime) / CLOCKS_PER_SEC;
   

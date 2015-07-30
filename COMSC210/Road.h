@@ -1,4 +1,5 @@
-//Road.h, by Junteng Tan (1489763)
+//Road.h
+
 #ifndef ROAD_H
 #define ROAD_H
 

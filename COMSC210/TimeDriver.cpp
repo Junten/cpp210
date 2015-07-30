@@ -1,7 +1,5 @@
-//TimeDriver.cpp, by Junteng Tan (1489763)
+//TimeDriver.cpp
 //lab1b, The "Time" program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode
 
 #include <iostream>
 #include "Time.h"
@@ -12,8 +10,6 @@ using namespace std;
 
 int main() {
   cout << "Lab 1b, The \"Time\" Program \n";
-  cout << "Programmer: Junteng Tan\n";
-  cout << "ditor(s) used: xcode text Edit\n";
   cout << "File: " << __FILE__ << endl;
   cout << "Complied: " << __DATE__ << " at " << __TIME__ << endl << endl;
 

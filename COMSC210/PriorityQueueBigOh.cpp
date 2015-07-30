@@ -1,8 +1,5 @@
-// PriorityQueueBigOh.cpp by Junteng Tan (1489763)
+// PriorityQueueBigOh.cpp
 // lab 12b, The "PriorityQueueBigOh" program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode
-
 
 #include <iostream>
 #include <ctime>
@@ -16,8 +13,6 @@ using namespace std;
 
 int main(int argc, const char * argv[]) {
   cout << "Lab 12b, The \"PriorityQueueBigOh\" Program " << endl
-       << "Programmer: Junteng Tan" << endl
-       << "Editor(s) used: xcode text Edit" << endl
        << "File: " << __FILE__ << endl
        << "Complied: " << __DATE__ << " at " << __TIME__ << endl;
   

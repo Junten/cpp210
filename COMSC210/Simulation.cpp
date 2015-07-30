@@ -1,7 +1,5 @@
-// Simulation.cpp, by Junteng Tan (1489763)
-// Lab13, The "DSimulation" program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode
+// Simulation.cpp
+// Lab13, The "Simulation" program
 
 #include <iostream>
 #include <fstream>
@@ -41,8 +39,6 @@ int newArrival(double arrivalRate) {
 
 int main() {
   cout << "Term Project, The \"Simulation\" program " << endl
-       << "Programmer: Junteng Tan" << endl
-       << "Editor(s) used: xcode text Edit" << endl
        << "File: " << __FILE__ << endl
        << "Complied: " << __DATE__ << " at " << __TIME__ << endl;
 

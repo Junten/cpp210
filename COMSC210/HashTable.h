@@ -1,7 +1,5 @@
-// HashTable.h, by Junteng Tan (1489763)
+// HashTable.h
 // lab 11a, The "HashTable" program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode
 
 #ifndef HashTable_h
 #define HashTable_h

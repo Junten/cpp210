@@ -1,7 +1,5 @@
-// ServerGroupDriver.cpp, by Junteng Tan (1489763)
+// ServerGroupDriver.cpp
 // lab 4a, The "ServerGroup" program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode
 
 #include <iostream>
 #include <cassert>
@@ -12,8 +10,6 @@ using namespace std;
 
 int main() {
   cout << "Lab 4a, The \"ServerGroup\" Program \n";
-  cout << "Programmer: Junteng Tan\n";
-  cout << "Editor(s) used: xcode text Edit\n";
   cout << "File: " << __FILE__ << endl;
   cout << "Complied: " << __DATE__ << " at " << __TIME__ << endl << endl;
    

@@ -1,8 +1,5 @@
-// HashTableDriver.cpp, by Junteng Tan (1489763)
+// HashTableDriver.cpp
 // lab 11a, The "HashTable" program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode Copyright (c) 2014 Junteng Tan. All rights reserved.
-
 
 #include "HashTable.h"
 #include <iostream>
@@ -48,8 +45,6 @@ int convertStrToInt (string str) {
 
 int main() {
   cout << "Lab 11a, The \"HashTable\" Program " << endl
-       << "Programmer: Junteng Tan" << endl
-       << "Editor(s) used: xcode text Edit" << endl
        << "File: " << __FILE__ << endl
        << "Complied: " << __DATE__ << " at " << __TIME__ << endl;
   

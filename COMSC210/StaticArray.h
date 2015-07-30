@@ -1,7 +1,5 @@
-// StaticArray.h, by Junteng Tan (1489763)
+// StaticArray.h
 // lab 5a, The "MyStaticArray" program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode
 
 #ifndef StaticArray_H
 #define StaticArray_H

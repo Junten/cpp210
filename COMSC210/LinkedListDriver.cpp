@@ -1,7 +1,5 @@
-// LinkedListDriver.cpp, by Junteng Tan (1489763)
+// LinkedListDriver.cpp
 // lab 10a, The "LinkedList" program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode
 
 #include "LinkedList.h"
 #include <iostream>
@@ -13,8 +11,6 @@ using namespace std;
 
 int main() {
   cout << "Lab 10a, The \"LinkedList\" Program " << endl
-       << "Programmer: Junteng Tan" << endl
-       << "Editor(s) used: xcode text Edit" << endl
        << "File: " << __FILE__ << endl
        << "Complied: " << __DATE__ << " at " << __TIME__ << endl << endl;
        

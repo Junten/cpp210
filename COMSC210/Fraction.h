@@ -1,4 +1,4 @@
-//Fraction.h, by Junteng Tan (1489763)
+//Fraction.h
 
 #ifndef Fraction_H
 #define Fraction_H

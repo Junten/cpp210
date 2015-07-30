@@ -1,7 +1,5 @@
-// DvcSchedule14b.cpp, by Junteng Tan (1489763)
+// DvcSchedule14b.cpp
 // lab 14b, The "DvcSchedule14b" program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode
 
 #include <iostream>
 #include <fstream>
@@ -24,8 +22,6 @@ struct SubjectCode {
 
 int main() {
   cout << "Lab 5b, The \"DvcSchedule14b\" Program " << endl
-       << "Programmer: Junteng Tan" << endl
-       << "Editor(s) used: xcode text Edit" << endl
        << "File: " << __FILE__ << endl
        << "Complied: " << __DATE__ << " at " << __TIME__ << endl << endl;
   

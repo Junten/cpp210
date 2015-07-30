@@ -1,9 +1,5 @@
-// DynamicArray.h, by Junteng Tan (1489763)
+// DynamicArray.h
 // lab 6c, The "MyDynamicArray" program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode
-
-
 
 #ifndef DynamicArray_H
 #define DynamicArray_H

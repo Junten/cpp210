@@ -1,4 +1,4 @@
-//Road.cpp, by Junteng Tan (1489763)
+//Road.cpp
 
 #include "Road.h"
 

@@ -1,7 +1,5 @@
-//RoadDriver.cpp, by Junteng Tan (1489763)
+//RoadDriver.cpp
 //Lab1a, The "Road" Program
-// Editor(s) used: xcode text Edit
-// Compiler(s) used: xcode
 
 #include <iostream>
 #include <cassert>
@@ -12,8 +10,6 @@ using namespace std;
 
 int main() {
   cout << "Lab 1a, The \"Road\" Program \n";
-  cout << "Programmer: Junteng Tan\n";
-  cout << "Editor(s) used: xcode text Edit\n";
   cout << "File: " << __FILE__ << endl;
   cout << "Complied: " << __DATE__ << " at " << __TIME__ << endl << endl;
 
